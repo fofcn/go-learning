@@ -5,7 +5,7 @@ import (
 	"unsafe"
 )
 
-// func main() {
+func main() {
 	var x []int = make([]int, 2)
 	x[0] = 42
 	x[1] = 43
